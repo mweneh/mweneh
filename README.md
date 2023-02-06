@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Ruby on Rails
+- 🔭 &nbsp; I’m currently learning Python & Django
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Software Engineering and Economics
 - 💼 &nbsp; Full Stack Web Developer
